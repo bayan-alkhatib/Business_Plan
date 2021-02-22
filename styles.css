@@ -1,4 +1,32 @@
-.pp1{
+.hor{
+    width:100%;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    text-decoration:none; 
+    color: white;
     display: inline;
-  }
-  li{color: aliceblue;}
+}
+.list {
+    list-style-type: none;
+    display: inline;
+
+    
+   }
+    body{background-color:#497860;}
+    div{
+        text-align: center;  ;
+        
+        
+    }
+    img{ 
+        width: 200px;
+        text-align: center; 
+        margin-top: 50px  ; 
+        
+    }
+    blockquote{ color:cornsilk;
+        text-align: center;font-style: italic;
+    }
+   h2,p,h3,ol{ color: cornsilk;
+}
+footer{color: cornsilk;}
