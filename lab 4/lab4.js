@@ -11,4 +11,3 @@ if (navBar.toLowerCase()=="yes"){console.log("1")}
 else{console.log("0")};
 
 confirm ("we encourage you to visit the links in the navigation bar");
-
